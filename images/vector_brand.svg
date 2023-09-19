@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1173" height="787.525" viewBox="0 0 1173 787.525">
+  <defs>
+    <filter id="Rectangle_55" x="159" y="66" width="717" height="632" filterUnits="userSpaceOnUse">
+      <feOffset dy="33" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_55-2" x="37" y="391" width="339" height="335" filterUnits="userSpaceOnUse">
+      <feOffset dy="33" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Base" x="671" y="394" width="429" height="246" filterUnits="userSpaceOnUse">
+      <feOffset dy="33" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-3"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Base-2" data-name="Base" width="78" height="78" rx="39" transform="translate(0 0)" fill="#928fff"/>
+    </clipPath>
+    <filter id="Base-3" x="9" y="5" width="415" height="249" filterUnits="userSpaceOnUse">
+      <feOffset dy="33" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-4"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect id="Base-4" data-name="Base" width="70" height="70" rx="35" transform="translate(0 0)" fill="#928fff"/>
+    </clipPath>
+  </defs>
+  <g id="vector_brand" transform="translate(-670 -241)">
+    <path id="Path_1409" data-name="Path 1409" d="M1098.242,1255.228a64.572,64.572,0,0,1-8.473-.507,72.712,72.712,0,0,1-53.5-34.062c-56.746-91.851-155.182-146.707-263.273-146.707-100.058,0-194.037,48.508-251.425,129.762a72.873,72.873,0,0,1-111.028,9.487L221.4,1024.059a72.86,72.86,0,0,1,0-103.028L598.431,544A258.719,258.719,0,0,1,782.578,467.7h.034a258.8,258.8,0,0,1,184.18,76.359L1351.726,929.2a72.82,72.82,0,0,1-.067,103.063l-201.937,201.665A72.943,72.943,0,0,1,1098.242,1255.228ZM772.991,928.255c128.345,0,247.407,52.6,332.475,143.941l91.686-91.549L863.7,647.057a113.759,113.759,0,0,0-81.119-33.622h0a113.924,113.924,0,0,0-81.119,33.588L375.936,972.544l82.335,82.3A454.549,454.549,0,0,1,772.991,928.255Z" transform="translate(469.939 -226.703)" fill="#03d2da"/>
+    <g id="Group_326" data-name="Group 326" transform="translate(311.569 -765.606)">
+      <g transform="matrix(1, 0, 0, 1, 358.43, 1006.61)" filter="url(#Rectangle_55)">
+        <rect id="Rectangle_55-3" data-name="Rectangle 55" width="567" height="482" rx="65" transform="translate(234 108)" fill="#fff"/>
+      </g>
+      <g id="Statistics" transform="translate(678.756 1164.24)">
+        <g id="Timeframes" transform="translate(1.172 339.99)">
+          <g id="_12H" data-name="12H">
+            <rect id="Base-5" data-name="Base" width="77" height="28" transform="translate(-0.497 0.376)" fill="none"/>
+            <text id="_12H-2" data-name="12H" transform="translate(37.503 18.376)" fill="#121826" font-size="13" font-family="Montserrat-Regular, Montserrat"><tspan x="-11.323" y="0">12H</tspan></text>
+          </g>
+          <g id="_1D" data-name="1D" transform="translate(76.205)">
+            <rect id="Base-6" data-name="Base" width="76" height="28" transform="translate(0.298 0.376)" fill="none"/>
+            <text id="_1D-2" data-name="1D" transform="translate(38.298 19.376)" fill="#121826" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="-8.309" y="0">1D</tspan></text>
+          </g>
+          <g id="_1W" data-name="1W" transform="translate(152.409)">
+            <rect id="Base-7" data-name="Base" width="76" height="28" transform="translate(0.094 0.376)" fill="none"/>
+            <rect id="Base-8" data-name="Base" width="54" height="28" rx="12" transform="translate(12.094 0.376)" fill="#b078f0"/>
+            <text id="_1W-2" data-name="1W" transform="translate(38.723 18.862)" fill="#4a44c6" font-size="13" font-family="Montserrat-Regular, Montserrat"><tspan x="-9.568" y="0">1W</tspan></text>
+          </g>
+          <g id="_1M" data-name="1M" transform="translate(228.614)">
+            <rect id="Base-9" data-name="Base" width="76" height="28" transform="translate(-0.111 0.376)" fill="none"/>
+            <text id="_1M-2" data-name="1M" transform="translate(37.889 19.376)" fill="#121826" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="-9.212" y="0">1M</tspan></text>
+          </g>
+          <g id="_1Y" data-name="1Y" transform="translate(304.819)">
+            <rect id="Base-10" data-name="Base" width="77" height="28" transform="translate(-0.315 0.376)" fill="none"/>
+            <text id="_1Y-2" data-name="1Y" transform="translate(37.068 18.862)" fill="#121826" font-size="13" font-family="Montserrat-Regular, Montserrat"><tspan x="-6.474" y="0">1Y</tspan></text>
+          </g>
+        </g>
+        <g id="Chart" transform="translate(-0.325 72.366)">
+          <g id="Timeframes-2" data-name="Timeframes" transform="translate(57.447 220.407)">
+            <text id="We" transform="translate(96.553 -0.407)" fill="#6c727f" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="-9.96" y="12">We</tspan></text>
+            <text id="Mo" transform="translate(-0.447 -0.407)" fill="#6c727f" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="-9.492" y="12">Mo</tspan></text>
+            <text id="Tu" transform="translate(48.553 -0.407)" fill="#6c727f" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="-7.398" y="12">Tu</tspan></text>
+            <text id="Th" transform="translate(144.553 -0.407)" fill="#6c727f" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="-7.506" y="12">Th</tspan></text>
+            <text id="Fr" transform="translate(192.553 -0.407)" fill="#6c727f" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="-6.144" y="12">Fr</tspan></text>
+            <text id="Sa" transform="translate(240.553 -0.407)" fill="#6c727f" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="-7.23" y="12">Sa</tspan></text>
+            <text id="Su" transform="translate(288.553 -0.407)" fill="#6c727f" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="-7.728" y="12">Su</tspan></text>
+          </g>
+          <g id="Amount">
+            <g id="Item">
+              <path id="Line" d="M0,.5H327.094" transform="translate(56.274 8.879)" fill="none" stroke="#928fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="8" opacity="0.2"/>
+              <text id="_20k" data-name="$20k" transform="translate(0 0)" fill="#6c727f" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="12">$20k</tspan></text>
+            </g>
+            <g id="Item-2" data-name="Item" transform="translate(0 46.895)">
+              <path id="Line-2" data-name="Line" d="M0,.5H327.094" transform="translate(56.274 8.879)" fill="none" stroke="#928fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="8" opacity="0.2"/>
+              <text id="_15k" data-name="$15k" transform="translate(0 0.105)" fill="#6c727f" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="12">$15k</tspan></text>
+            </g>
+            <g id="Item-3" data-name="Item" transform="translate(0 93.79)">
+              <path id="Line-3" data-name="Line" d="M0,.5H327.094" transform="translate(56.274 8.879)" fill="none" stroke="#928fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="8" opacity="0.2"/>
+              <text id="_10k" data-name="$10k" transform="translate(0 0.21)" fill="#6c727f" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="12">$10k</tspan></text>
+            </g>
+            <g id="Item-4" data-name="Item" transform="translate(0 140.685)">
+              <path id="Line-4" data-name="Line" d="M0,.5H327.094" transform="translate(56.274 8.879)" fill="none" stroke="#928fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="8" opacity="0.2"/>
+              <text id="_5k" data-name="$5k" transform="translate(0 0.315)" fill="#6c727f" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="12">$5k</tspan></text>
+            </g>
+            <g id="Item-5" data-name="Item" transform="translate(0 187.581)">
+              <path id="Line-5" data-name="Line" d="M0,.5H327.094" transform="translate(56.274 8.879)" fill="none" stroke="#928fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="8" opacity="0.2"/>
+              <text id="_0" data-name="$0" transform="translate(0 0.419)" fill="#6c727f" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="12">$0</tspan></text>
+            </g>
+          </g>
+          <g id="Chart-2" data-name="Chart" transform="translate(62.136 9.379)">
+            <path id="Chart_1" data-name="Chart 1" d="M14,0h0A14,14,0,0,1,28,14V91.667A2.333,2.333,0,0,1,25.667,94H2.333A2.333,2.333,0,0,1,0,91.667V14A14,14,0,0,1,14,0Z" transform="translate(-0.136 93.621)" fill="#e9e9ff"/>
+            <path id="Chart_2" data-name="Chart 2" d="M14,0h0A14,14,0,0,1,28,14V35.667A2.333,2.333,0,0,1,25.667,38H2.333A2.333,2.333,0,0,1,0,35.667V14A14,14,0,0,1,14,0Z" transform="translate(47.864 149.621)" fill="#e9e9ff"/>
+            <path id="Chart_3" data-name="Chart 3" d="M14,0h0A14,14,0,0,1,28,14V138.667A2.333,2.333,0,0,1,25.667,141H2.333A2.333,2.333,0,0,1,0,138.667V14A14,14,0,0,1,14,0Z" transform="translate(95.864 46.621)" fill="#b078f0"/>
+            <path id="Chart_4" data-name="Chart 4" d="M14,0h0A14,14,0,0,1,28,14V72.667A2.333,2.333,0,0,1,25.667,75H2.333A2.333,2.333,0,0,1,0,72.667V14A14,14,0,0,1,14,0Z" transform="translate(143.864 112.621)" fill="#e9e9ff"/>
+            <path id="Chart_5" data-name="Chart 5" d="M14.5,0h0A14.5,14.5,0,0,1,29,14.5v96.083A2.417,2.417,0,0,1,26.583,113H2.417A2.417,2.417,0,0,1,0,110.583V14.5A14.5,14.5,0,0,1,14.5,0Z" transform="translate(191.864 74.621)" fill="#e9e9ff"/>
+            <path id="Chart_6" data-name="Chart 6" d="M14.5,0h0A14.5,14.5,0,0,1,29,14.5V185.583A2.417,2.417,0,0,1,26.583,188H2.417A2.417,2.417,0,0,1,0,185.583V14.5A14.5,14.5,0,0,1,14.5,0Z" transform="translate(239.864 -0.379)" fill="#e9e9ff"/>
+            <path id="Chart_7" data-name="Chart 7" d="M14,0h0A14,14,0,0,1,28,14V81.667A2.333,2.333,0,0,1,25.667,84H2.333A2.333,2.333,0,0,1,0,81.667V14A14,14,0,0,1,14,0Z" transform="translate(288.864 103.621)" fill="#e9e9ff"/>
+            <g id="Tooltips" transform="translate(72.687 75.032)">
+              <rect id="Base-11" data-name="Base" width="75" height="24" rx="10" transform="translate(0.176 -0.411)" fill="#4a44c6"/>
+              <text id="_41_522" data-name="$41,522" transform="translate(9.176 2.589)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-20.707" y="13">$14,522</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="Title" transform="translate(0 0)">
+          <text id="See_More" data-name="See More" transform="translate(381.675 30.366)" fill="#4a44c6" font-size="16" font-family="Montserrat-Regular, Montserrat"><tspan x="-74.544" y="0">See More</tspan></text>
+          <text id="Statistics-2" data-name="Statistics" transform="translate(-0.325 34.366)" fill="#242424" font-size="35" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Statistics</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_328" data-name="Group 328" transform="translate(-239.66 -629)">
+      <g transform="matrix(1, 0, 0, 1, 909.66, 870)" filter="url(#Rectangle_55-2)">
+        <rect id="Rectangle_55-4" data-name="Rectangle 55" width="189" height="185" rx="65" transform="translate(112 433)" fill="#fff"/>
+      </g>
+      <g id="Icons_User" data-name="Icons/User" transform="translate(1070.78 1350.12)">
+        <path id="Vector" d="M90.76,0V90.76H0V0Z" fill="none" opacity="0"/>
+        <path id="_Edit_Color" data-name="👑 Edit Color" d="M34.035,3.6A3.485,3.485,0,0,0,30.25.021,33.762,33.762,0,0,0,15.168,5.563,34.13,34.13,0,1,0,62.507,52.9,33.759,33.759,0,0,0,68.049,37.82a3.485,3.485,0,0,0-3.582-3.785H41.6a7.563,7.563,0,0,1-7.563-7.563Z" transform="translate(7.563 15.127)" fill="#928fff"/>
+        <path id="_Edit_Color-2" data-name="👑 Edit Color" d="M30.422,34.035a3.5,3.5,0,0,0,3.592-3.795,34.212,34.212,0,0,0-2.394-9.3A34.226,34.226,0,0,0,24.2,9.834,34.229,34.229,0,0,0,13.1,2.415,34.23,34.23,0,0,0,3.8.021,3.5,3.5,0,0,0,0,3.613V26.472a7.563,7.563,0,0,0,7.563,7.563Z" transform="translate(49.162 7.563)" fill="#4a44c6"/>
+      </g>
+    </g>
+    <g id="Income" transform="translate(1416 677)">
+      <g transform="matrix(1, 0, 0, 1, -746, -436)" filter="url(#Base)">
+        <rect id="Base-12" data-name="Base" width="279" height="96" rx="33" transform="translate(746 436)" fill="#fff"/>
+      </g>
+      <text id="_5_280" data-name="$5,280" transform="translate(122 54)" fill="#6c727f" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="12">13,321 $</tspan></text>
+      <text id="Income-2" data-name="Income" transform="translate(122 30)" fill="#242424" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="19">Commission</tspan></text>
+      <g id="Buttons_Float_Rest" data-name="Buttons/Float/Rest" transform="translate(27 10)">
+        <rect id="Base-13" data-name="Base" width="78" height="78" rx="39" transform="translate(0 0)" fill="#8ee04e"/>
+        <g id="Buttons_Float_Rest-2" data-name="Buttons/Float/Rest" clip-path="url(#clip-path)">
+          <g id="file-money" transform="translate(27 27)">
+            <rect id="Rectangle_186" data-name="Rectangle 186" width="18" height="22" transform="translate(3 1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <line id="Line_497" data-name="Line 497" y2="14" transform="translate(12 5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_1451" data-name="Path 1451" d="M15.375,7.219c-1.621-.891-6.727-1.556-6.727,1.513,0,3.674,6.484,2.377,6.484,5.619S10.918,17.349,8,16.3" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Expense" transform="translate(753.722 280.949)">
+      <g transform="matrix(1, 0, 0, 1, -83.72, -39.95)" filter="url(#Base-3)">
+        <rect id="Base-14" data-name="Base" width="265" height="99" rx="33" transform="translate(84 47)" fill="#fff"/>
+      </g>
+      <text id="_2_008" data-name="$2,008" transform="translate(121.278 66.051)" fill="#6c727f" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="12">325</tspan></text>
+      <text id="Expense-2" data-name="Expense" transform="translate(121.278 34.051)" fill="#242424" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="19">Orders</tspan></text>
+      <g id="Buttons_Float_Rest-3" data-name="Buttons/Float/Rest" transform="translate(25.278 22.051)">
+        <rect id="Base-15" data-name="Base" width="70" height="70" rx="35" transform="translate(0 0)" fill="#ff6740"/>
+        <g id="Buttons_Float_Rest-4" data-name="Buttons/Float/Rest" clip-path="url(#clip-path-2)">
+          <g id="stack" transform="translate(23 23)">
+            <path id="Path_1448" data-name="Path 1448" d="M2,7,12,1,22,7,12,13Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_1449" data-name="Path 1449" d="M22,12,12,18,2,12" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_1450" data-name="Path 1450" d="M22,17,12,23,2,17" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Icon" transform="translate(1441 533.082)">
+      <rect id="Base-16" data-name="Base" width="114" height="114" rx="49" transform="translate(0 -0.082)" fill="#928fff"/>
+      <g id="Card-payment" transform="translate(23.261 23.179)">
+        <path id="Vector-2" data-name="Vector" d="M68.17,0V68.17H0V0Z" fill="none" opacity="0"/>
+        <path id="_Edit_Color-3" data-name="👑 Edit Color" d="M1,0H50a1,1,0,0,1,1,1V16a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8V1A1,1,0,0,1,1,0Z" transform="translate(8.739 30.738)" fill="#e9e9ff"/>
+        <path id="_Edit_Color-4" data-name="👑 Edit Color" d="M12.556,28a1,1,0,0,1-1-1V23.4a1,1,0,0,1,1-1H30.778a1,1,0,0,1,1,1V27a1,1,0,0,1-1,1ZM1,11.2a1,1,0,0,1-1-1V8A8,8,0,0,1,8,0H44a8,8,0,0,1,8,8v2.2a1,1,0,0,1-1,1Z" transform="translate(8.739 13.738)" fill="#4a44c6"/>
+      </g>
+    </g>
+  </g>
+</svg>

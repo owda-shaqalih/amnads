@@ -1,0 +1,26 @@
+<svg id="hw5" xmlns="http://www.w3.org/2000/svg" width="114.666" height="96" viewBox="0 0 114.666 96">
+  <rect id="Rectangle_161" data-name="Rectangle 161" width="102" height="71" rx="10" transform="translate(6.666 6)" fill="#9954e8"/>
+  <path id="Rectangle_162" data-name="Rectangle 162" d="M0,0H102a0,0,0,0,1,0,0V3A10,10,0,0,1,92,13H10A10,10,0,0,1,0,3V0A0,0,0,0,1,0,0Z" transform="translate(6.666 64)" fill="#b078f0"/>
+  <path id="Path_1419" data-name="Path 1419" d="M68.222,70H42.741A12.74,12.74,0,0,1,30,82.741H80.962A12.74,12.74,0,0,1,68.222,70Z" transform="translate(1.852 6.444)" fill="#9954e8"/>
+  <rect id="Rectangle_163" data-name="Rectangle 163" width="64" height="7" rx="2.5" transform="translate(25.666 89)" fill="#b078f0"/>
+  <g id="Group_350" data-name="Group 350">
+    <path id="Rectangle_164" data-name="Rectangle 164" d="M0,0H12a0,0,0,0,1,0,0V7a5,5,0,0,1-5,5H5A5,5,0,0,1,0,7V0A0,0,0,0,1,0,0Z" transform="translate(0.666 13)" fill="#fff"/>
+    <path id="Rectangle_165" data-name="Rectangle 165" d="M0,0H13a0,0,0,0,1,0,0V7a5,5,0,0,1-5,5H5A5,5,0,0,1,0,7V0A0,0,0,0,1,0,0Z" transform="translate(12.666 13)" fill="#b078f0"/>
+    <path id="Rectangle_166" data-name="Rectangle 166" d="M0,0H12a0,0,0,0,1,0,0V7a5,5,0,0,1-5,5H5A5,5,0,0,1,0,7V0A0,0,0,0,1,0,0Z" transform="translate(25.666 13)" fill="#fff"/>
+    <path id="Rectangle_167" data-name="Rectangle 167" d="M0,0H13a0,0,0,0,1,0,0V7a5,5,0,0,1-5,5H5A5,5,0,0,1,0,7V0A0,0,0,0,1,0,0Z" transform="translate(37.666 13)" fill="#b078f0"/>
+    <path id="Rectangle_168" data-name="Rectangle 168" d="M0,0H13a0,0,0,0,1,0,0V7a5,5,0,0,1-5,5H5A5,5,0,0,1,0,7V0A0,0,0,0,1,0,0Z" transform="translate(50.666 13)" fill="#fff"/>
+    <path id="Rectangle_169" data-name="Rectangle 169" d="M0,0H13a0,0,0,0,1,0,0V7a5,5,0,0,1-5,5H5A5,5,0,0,1,0,7V0A0,0,0,0,1,0,0Z" transform="translate(63.666 13)" fill="#b078f0"/>
+    <path id="Rectangle_170" data-name="Rectangle 170" d="M0,0H13a0,0,0,0,1,0,0V7a5,5,0,0,1-5,5H5A5,5,0,0,1,0,7V0A0,0,0,0,1,0,0Z" transform="translate(76.666 13)" fill="#fff"/>
+    <path id="Rectangle_171" data-name="Rectangle 171" d="M0,0H12a0,0,0,0,1,0,0V7a5,5,0,0,1-5,5H5A5,5,0,0,1,0,7V0A0,0,0,0,1,0,0Z" transform="translate(89.666 13)" fill="#b078f0"/>
+    <path id="Rectangle_172" data-name="Rectangle 172" d="M0,0H13a0,0,0,0,1,0,0V7a5,5,0,0,1-5,5H5A5,5,0,0,1,0,7V0A0,0,0,0,1,0,0Z" transform="translate(101.666 13)" fill="#fff"/>
+    <rect id="Rectangle_173" data-name="Rectangle 173" width="13" height="13" transform="translate(12.666)" fill="#9954e8"/>
+    <rect id="Rectangle_174" data-name="Rectangle 174" width="12" height="13" transform="translate(25.666)" fill="#ffca60"/>
+    <rect id="Rectangle_175" data-name="Rectangle 175" width="13" height="13" transform="translate(37.666)" fill="#9954e8"/>
+    <rect id="Rectangle_176" data-name="Rectangle 176" width="13" height="13" transform="translate(50.666)" fill="#ffca60"/>
+    <rect id="Rectangle_177" data-name="Rectangle 177" width="13" height="13" transform="translate(63.666)" fill="#9954e8"/>
+    <rect id="Rectangle_178" data-name="Rectangle 178" width="13" height="13" transform="translate(76.666)" fill="#ffca60"/>
+    <rect id="Rectangle_179" data-name="Rectangle 179" width="12" height="13" transform="translate(89.666)" fill="#9954e8"/>
+    <path id="Path_1420" data-name="Path 1420" d="M5,22.741l4.61-9.219A6.37,6.37,0,0,1,15.307,10h2.433V22.741Z" transform="translate(-5 -10)" fill="#ffca60"/>
+    <path id="Path_1421" data-name="Path 1421" d="M97.741,22.741l-4.61-9.219A6.37,6.37,0,0,0,87.433,10H85V22.741Z" transform="translate(16.925 -10)" fill="#ffca60"/>
+  </g>
+</svg>

@@ -1,0 +1,436 @@
+/*
+Theme Name: Amnads
+Theme URI: #
+Author: Owda Shaqalih
+Author URI: https://www.facebook.com/owda.sh
+Description: Amnads
+Version: 1.0
+*/
+@font-face {
+  font-family: 'HaniArb';
+  src: url('../fonts/HaniArb-Light/HaniArb-Light.eot');
+  src: url('../fonts/HaniArb-Light/HaniArb-Light.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/HaniArb-Light/HaniArb-Light.svg#HaniArb-Light') format('svg'),
+       url('../fonts/HaniArb-Light/HaniArb-Light.ttf') format('truetype'),
+       url('../fonts/HaniArb-Light/HaniArb-Light.woff') format('woff'),
+       url('../fonts/HaniArb-Light/HaniArb-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'HaniArb';
+  src: url('../fonts/HaniArb-Regular/HaniArb-Regular.eot');
+  src: url('../fonts/HaniArb-Regular/HaniArb-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/HaniArb-Regular/HaniArb-Regular.svg#HaniArb-Regular') format('svg'),
+       url('../fonts/HaniArb-Regular/HaniArb-Regular.ttf') format('truetype'),
+       url('../fonts/HaniArb-Regular/HaniArb-Regular.woff') format('woff'),
+       url('../fonts/HaniArb-Regular/HaniArb-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'HaniArb';
+  src: url('../fonts/HaniArb-Medium/HaniArb-Medium.eot');
+  src: url('../fonts/HaniArb-Medium/HaniArb-Medium.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/HaniArb-Medium/HaniArb-Medium.svg#HaniArb-Medium') format('svg'),
+       url('../fonts/HaniArb-Medium/HaniArb-Medium.ttf') format('truetype'),
+       url('../fonts/HaniArb-Medium/HaniArb-Medium.woff') format('woff'),
+       url('../fonts/HaniArb-Medium/HaniArb-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'HaniArb';
+  src: url('../fonts/HaniArb-SemiBold/HaniArb-SemiBold.eot');
+  src: url('../fonts/HaniArb-SemiBold/HaniArb-SemiBold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/HaniArb-SemiBold/HaniArb-SemiBold.svg#HaniArb-SemiBold') format('svg'),
+       url('../fonts/HaniArb-SemiBold/HaniArb-SemiBold.ttf') format('truetype'),
+       url('../fonts/HaniArb-SemiBold/HaniArb-SemiBold.woff') format('woff'),
+       url('../fonts/HaniArb-SemiBold/HaniArb-SemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'HaniArb';
+  src: url('../fonts/HaniArb-Bold/HaniArb-Bold.eot');
+  src: url('../fonts/HaniArb-Bold/HaniArb-Bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/HaniArb-Bold/HaniArb-Bold.svg#HaniArb-Bold') format('svg'),
+       url('../fonts/HaniArb-Bold/HaniArb-Bold.ttf') format('truetype'),
+       url('../fonts/HaniArb-Bold/HaniArb-Bold.woff') format('woff'),
+       url('../fonts/HaniArb-Bold/HaniArb-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+html{
+  direction: rtl;
+}
+body{
+    font-family: 'HaniArb', sans-serif;
+    background-color: #fff;
+    font-size:12px;
+    font-weight:400;
+    text-align: right;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'HaniArb', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  margin: 0;
+}
+.ml-auto, .mx-auto {
+    margin-right: auto!important;
+    margin-left: 0!important;
+}
+.mr-auto, .mx-auto {
+    margin-left: auto!important;
+    margin-right: 0!important;
+}
+.main_menu li{
+  float: right;
+  margin-left: 30px;
+  margin-right: 0;
+}
+.main_menu li:last-child{
+  margin-left: 0;
+  margin-right: 0;
+}
+.grpHead_btns{
+  margin-right: 50px;
+  margin-left: 0;
+}
+.grpHead_btns > .btn{
+  margin-left: 10px;
+  margin-right: 0;
+}
+.grpHead_btns > .btn:last-child{
+  margin-left: 0;
+  margin-right: 0;
+}
+.hero_txt{
+  padding-left: 80px;
+  padding-right: 0;
+}
+.btn_play{
+  right: 15px;
+  left: auto;
+}
+.bt_icon > img{
+  margin: auto 0 auto auto;
+}
+.bg_about_content{
+  right: -70px;
+  left: auto;
+}
+.vector_about{
+  right: 0;
+  left: auto;
+}
+.box_choose_itm{
+  padding-left: 50px;
+  padding-right: 0;
+}
+.icon_choose > img{
+  margin: auto 0 auto auto;
+}
+.section_bk_clients:before{
+  background-position:-90px 0;
+}
+#client_slider .owl-nav{
+  left: 15px;
+  right: auto;
+}
+#client_slider .owl-nav > button{
+  margin-left: 10px;
+  margin-right: 0;
+}
+#client_slider .owl-nav > button:last-child{
+  margin-left: 0;
+  margin-right: 0;
+}
+.tmPrand_vector{
+  text-align: left;
+  z-index:2;
+}
+.bk_hm_content{
+  padding: 100px 35px 30px 0;
+}
+.bk_hm_content:before{
+  right: 5px;
+  left: auto;
+}
+.ft_social > li{
+  float: right;
+  margin-left: 15px;
+  margin-right: 0;
+}
+.ft_social > li:last-child{
+  margin-left: 0;
+  margin-right: 0;
+}
+.pl-20{
+  padding-right: 20px;
+  padding-left: 0;
+}
+.line_sty:before{
+  right: -30px;
+  left: auto;
+}
+.choose_us_list > .row > div:nth-child(1) .txt_choose h2:before{
+  right: -30px;
+  left: auto;
+}
+.section_bk_hm{
+  background-position: 10% 80px;
+}
+.top_social{
+  right: 0px;
+  left: auto;
+}
+.lang_top{
+  left: 0;
+  right: auto;
+}
+.lang_top > li{
+  float: right;
+}
+.lang_top > li > a{
+  font-family: 'HaniArb', 'Montserrat';
+}
+#header .menu-trigger {
+  margin-right: 10px;
+  margin-left: 0;
+}
+.mb_lang{
+  font-family: 'Montserrat';
+}
+.mobile_social > li{
+  float: right;
+  margin-left: 5px;
+  margin-right: 0;
+}
+.mobile_social > li:last-child{
+  margin-left: 0;
+  margin-right: 0;
+}
+.modal_st button.close{
+  right: 10px;
+  left: auto;
+}
+.form_st1 label.label_fm{
+  padding-right: 20px;
+  padding-left: 0;
+}
+.forget_pass{
+  text-align: left;
+}
+.check_agree p{
+  padding-right: 30px;
+  padding-left: 0;
+}
+.check_agree p:before{
+  right: 0;
+  left: auto;
+}
+.check_agree p:after{
+  right: 0;
+  left: auto;
+}
+.form_st1 .select2-container--default .select2-selection--single .select2-selection__rendered{
+  padding-right: 0.75rem;
+  padding-left: 40px;
+}
+/**================================
+INNER PAGE
+=================================**/
+.contact_left{
+  padding-left: 50px;
+  padding-right: 0;
+}
+.pd0{
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+.vector_left{
+  text-align: right;
+}
+.icon_how{
+  margin-left: 20px;
+  margin-right: 0;
+}
+.section_bk_about:before{
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+.vector_about > img,.tmPrand_vector > img,.section_bk_clients:before,
+.cn_footer:before{
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+.fa-long-arrow-left:before {
+    content: "\f178";
+}
+.fa-long-arrow-right:before {
+    content: "\f177";
+}
+/**==============================
+RESPONSIVE
+================================**/
+@media screen and (min-width: 1800px) {
+  .section_bk_hm{
+    background-position: 20% 80px;
+  }
+  .section_bk_clients:before{
+    background-position: 80px 0;
+  }
+}
+@media screen and (max-width: 1299px) {
+  .top_social{
+    right: 30px;
+    left: auto;
+  }
+  .lang_top{
+    left: 30px;
+    right: auto;
+  }
+}
+@media screen and (max-width: 1199px) {
+  .top_social{
+    right: 10px;
+    left: auto;
+  }
+  .lang_top{
+    left: 10px;
+    right: auto;
+  }
+  .grpHead_btns{
+    margin-right: 30px;
+    margin-left: 0;
+  }
+  .main_menu li{
+    margin-left: 25px;
+    margin-right: 0;
+  }
+  .hero_txt{
+    padding: 0;
+  }
+  .btn_play{
+    right: 10px;
+    left: auto;
+  }
+  .section_bk_clients{
+    padding: 75px 0;
+  }
+  .ft_logo{
+    text-align: center;
+  }
+  .ft_txt{
+    text-align: center;
+  }
+  .ft_social{
+    margin: 20px auto 0;
+  }
+  .cn_footer{
+    padding: 100px 0 20px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .content_hero{
+    margin: auto;
+    padding: 0;
+  }
+  .section_bk_hero{
+    padding: 120px 0 70px;
+  }
+  .section_bk_about{
+    padding: 120px 0 50px;
+  }
+  .box_about{
+    padding: 40px 20px;
+  }
+  .section_bk_hm{
+    background-size: 600px;
+  }
+  .box_choose_itm{
+    padding: 0;
+  }
+  .section_bk_clients{
+    padding: 50px 0;
+  }
+  .pl-20{
+    padding-right: 0;
+    padding-left: 0;
+  }
+  .contact_left{
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .section_bk_hero{
+    padding: 120px 0 30px;
+  }
+  .bk_hm_content{
+    padding: 80px 0 30px;
+  }
+  .bk_tmPrand{
+    padding: 50px 0;
+  }
+  .head_bg .sc_head{
+    padding: 50px 20px;
+    background-size: contain;
+  }
+  .box_choose_itm{
+    text-align: center;
+  }
+  .txt_how h3{
+    margin: 0;
+  }
+  .how_work_list .row{
+    margin: 0 -15px;
+  }
+  .how_work_list .row > div{
+    padding: 0 15px;
+  }
+  .icon_choose > img{
+    margin: auto;
+  }
+}
+@media screen and (max-width: 575px) {
+  .hero_txt p{
+    margin: 20px 0;
+  }
+  .btn_play{
+    margin: 20px auto;
+  }
+  .section_bk_about {
+      padding: 120px 0 30px;
+  }
+  .bk_hm_content{
+    padding: 50px 0 30px;
+  }
+  .section_bk_clients{
+    padding: 0 0 50px;
+  }
+  .f_box .row{
+    margin: 0 -5px;
+  }
+  .f_box .row > div{
+    padding:0 5px;
+  }
+  .ft_social > li{
+    margin-left: 10px;
+    margin-right: 0;
+  }
+  .modal_st .modal-content{
+    padding: 40px 15px;
+  }
+  .icon_how{
+    margin-left: 10px;
+    margin-right: 0;
+  }
+  .how_box{
+    padding: 20px 15px;
+  }
+}

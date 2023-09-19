@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'HaniArb-Medium';
+  src: url('HaniArb-Medium.eot');
+  src: url('HaniArb-Medium.eot?#iefix') format('embedded-opentype'),
+       url('HaniArb-Medium.svg#HaniArb-Medium') format('svg'),
+       url('HaniArb-Medium.ttf') format('truetype'),
+       url('HaniArb-Medium.woff') format('woff'),
+       url('HaniArb-Medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

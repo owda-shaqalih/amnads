@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1173" height="794" viewBox="0 0 1173 794">
+  <defs>
+    <filter id="Base" x="215" y="101" width="645" height="580" filterUnits="userSpaceOnUse">
+      <feOffset dy="33" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="0.996" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#928fff"/>
+      <stop offset="1" stop-color="#928fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="Rectangle_55" x="629" y="459" width="339" height="335" filterUnits="userSpaceOnUse">
+      <feOffset dy="33" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Base-2" x="48" y="435" width="404" height="267" filterUnits="userSpaceOnUse">
+      <feOffset dy="33" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-3"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Base-3" data-name="Base" width="72" height="72" rx="36" fill="#928fff"/>
+    </clipPath>
+    <filter id="Base-4" x="21" y="124" width="415" height="249" filterUnits="userSpaceOnUse">
+      <feOffset dy="33" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-4"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect id="Base-5" data-name="Base" width="70" height="70" rx="35" transform="translate(0 0)" fill="#928fff"/>
+    </clipPath>
+    <filter id="Base-6" x="601" y="53" width="429" height="246" filterUnits="userSpaceOnUse">
+      <feOffset dy="33" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-5"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-3">
+      <rect id="Base-7" data-name="Base" width="78" height="78" rx="39" transform="translate(0 0)" fill="#928fff"/>
+    </clipPath>
+  </defs>
+  <g id="vector_publish" transform="translate(-670 -241)">
+    <path id="Path_1409" data-name="Path 1409" d="M1098.242,1255.228a64.572,64.572,0,0,1-8.473-.507,72.712,72.712,0,0,1-53.5-34.062c-56.746-91.851-155.182-146.707-263.273-146.707-100.058,0-194.037,48.508-251.425,129.762a72.873,72.873,0,0,1-111.028,9.487L221.4,1024.059a72.86,72.86,0,0,1,0-103.028L598.431,544A258.719,258.719,0,0,1,782.578,467.7h.034a258.8,258.8,0,0,1,184.18,76.359L1351.726,929.2a72.82,72.82,0,0,1-.067,103.063l-201.937,201.665A72.943,72.943,0,0,1,1098.242,1255.228ZM772.991,928.255c128.345,0,247.407,52.6,332.475,143.941l91.686-91.549L863.7,647.057a113.759,113.759,0,0,0-81.119-33.622h0a113.924,113.924,0,0,0-81.119,33.588L375.936,972.544l82.335,82.3A454.549,454.549,0,0,1,772.991,928.255Z" transform="translate(469.939 -226.703)" fill="#03d2da"/>
+    <g id="Chart" transform="translate(960 275)">
+      <g id="Chart-2" data-name="Chart" transform="translate(0 109)">
+        <g transform="matrix(1, 0, 0, 1, -290, -143)" filter="url(#Base)">
+          <rect id="Base-8" data-name="Base" width="495" height="430" rx="65" transform="translate(290 143)" fill="#fbfbff"/>
+        </g>
+        <text id="You_have_saved_12_o" data-name="You have saved 12% o" transform="translate(133 333)" fill="#4a44c6" font-size="16" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="15">You have saved 12% of your spending </tspan><tspan x="0" y="42">compared to the previous month.</tspan></text>
+        <g id="LIne" transform="translate(27.228 36.303)">
+          <path id="Item" d="M.5,211.77V0" transform="translate(-0.5 0)" fill="none" stroke="#928fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="6" opacity="0.2"/>
+          <path id="Item-2" data-name="Item" d="M.5,211.77V0" transform="translate(43.367 0)" fill="none" stroke="#928fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="6" opacity="0.2"/>
+          <path id="Item-3" data-name="Item" d="M.5,211.77V0" transform="translate(87.233 0)" fill="none" stroke="#928fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="6" opacity="0.2"/>
+          <path id="Item-4" data-name="Item" d="M.5,211.77V0" transform="translate(131.1 0)" fill="none" stroke="#928fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="6" opacity="0.2"/>
+          <path id="Item-5" data-name="Item" d="M.5,211.77V0" transform="translate(174.966 0)" fill="none" stroke="#928fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="6" opacity="0.2"/>
+          <path id="Item-6" data-name="Item" d="M.5,211.77V0" transform="translate(218.833 0)" fill="none" stroke="#928fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="6" opacity="0.2"/>
+          <path id="Item-7" data-name="Item" d="M.5,211.77V0" transform="translate(262.699 0)" fill="none" stroke="#928fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="6" opacity="0.2"/>
+          <path id="Item-8" data-name="Item" d="M.5,211.77V0" transform="translate(306.566 0)" fill="none" stroke="#928fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="6" opacity="0.2"/>
+          <path id="Item-9" data-name="Item" d="M.5,211.77V0" transform="translate(350.433 0)" fill="none" stroke="#928fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="6" opacity="0.2"/>
+          <path id="Item-10" data-name="Item" d="M.5,211.77V0" transform="translate(394.299 0)" fill="none" stroke="#928fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="6" opacity="0.2"/>
+          <path id="Item-11" data-name="Item" d="M.5,211.77V0" transform="translate(438.166 0)" fill="none" stroke="#928fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="6" opacity="0.2"/>
+        </g>
+        <g id="Timeframes" transform="translate(27.228 260.174)">
+          <g id="Jul">
+            <text id="Jul-2" data-name="Jul" transform="translate(-0.228 -0.174)" fill="#6c727f" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-6.99" y="13">Jul</tspan></text>
+          </g>
+          <g id="Aug" transform="translate(87.733)">
+            <text id="Aug-2" data-name="Aug" transform="translate(0.04 -0.174)" fill="#6c727f" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-10.799" y="13">Aug</tspan></text>
+          </g>
+          <g id="Sep" transform="translate(175.466)">
+            <text id="Sep-2" data-name="Sep" transform="translate(0.306 -0.174)" fill="#4a44c6" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-9.853" y="13">Sep</tspan></text>
+          </g>
+          <g id="Oct" transform="translate(263.199)">
+            <text id="Oct-2" data-name="Oct" transform="translate(-0.427 -0.174)" fill="#6c727f" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-9.328" y="13">Oct</tspan></text>
+          </g>
+          <g id="Nov" transform="translate(350.933)">
+            <text id="Nov-2" data-name="Nov" transform="translate(-0.16 -0.174)" fill="#6c727f" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-10.878" y="13">Nov</tspan></text>
+          </g>
+        </g>
+        <g id="Chart-3" data-name="Chart" transform="translate(26.471 60.202)">
+          <path id="Path_2" data-name="Path 2" d="M0,170.443l41.405-37.122a6.051,6.051,0,0,1,5.648-1.328l36.74,10.135a6.051,6.051,0,0,0,6.419-2.162L125.9,93.209a6.051,6.051,0,0,1,10.143.814l15.126,28.235a6.051,6.051,0,0,0,8.655,2.2l13.63-8.951a6.051,6.051,0,0,1,4.392-.9l39.089,7.028a6.051,6.051,0,0,1,3.832,2.41l16.941,23.43a6.05,6.05,0,0,0,3.436,2.325l17.132,4.283a6.051,6.051,0,0,0,6.995-3.409l5.639-12.664a6.051,6.051,0,0,1,10.529-.943l17.711,26.024a6.051,6.051,0,0,0,10.914-2.118L338.6,29.813a2.772,2.772,0,0,1,4.669-1.369h0a3.461,3.461,0,0,0,5.62-1.062l6.087-13.95a6.051,6.051,0,0,1,11.507,1.382L370.244,36.4a5.27,5.27,0,0,0,8.92,2.821l.687-.688a6.051,6.051,0,0,1,9.9,2.031l1.976,4.944a5.659,5.659,0,0,0,10.544-.087l6.94-18.236a4.077,4.077,0,0,1,6.711-1.414l2.913,2.95a6.051,6.051,0,0,0,3.728,1.772l16.1,1.543" transform="translate(0.756 -9.799)" fill="none" stroke="#928fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+          <path id="Path_2-2" data-name="Path 2" d="M.756,170.443l41.405-37.122a6.051,6.051,0,0,1,5.648-1.328l36.74,10.135a6.051,6.051,0,0,0,6.419-2.162l35.684-46.758a6.051,6.051,0,0,1,10.143.814l15.126,28.235a6.051,6.051,0,0,0,8.655,2.2l13.63-8.951a6.051,6.051,0,0,1,4.392-.9l39.089,7.028a6.05,6.05,0,0,1,3.832,2.41l16.941,23.43A6.05,6.05,0,0,0,241.9,149.8l17.132,4.283a6.051,6.051,0,0,0,6.995-3.409l5.639-12.664a6.051,6.051,0,0,1,10.529-.943L299.9,163.092a6.051,6.051,0,0,0,10.914-2.118L339.36,29.813a2.772,2.772,0,0,1,4.669-1.369h0a3.461,3.461,0,0,0,5.62-1.062l6.087-13.95a6.051,6.051,0,0,1,11.507,1.382L371,36.4a5.27,5.27,0,0,0,8.92,2.821l.687-.688a6.051,6.051,0,0,1,9.9,2.031l1.976,4.944a5.659,5.659,0,0,0,10.544-.087l6.94-18.236a4.077,4.077,0,0,1,6.711-1.414l2.913,2.95a6.051,6.051,0,0,0,3.728,1.772l16.1,1.543.756,165.634H0Z" transform="translate(0 -9.799)" opacity="0.4" fill="url(#linear-gradient)"/>
+          <g id="Tooltips" transform="translate(0.756 97.112)">
+            <path id="Line-2" data-name="Line" d="M0,.5H438.666" transform="translate(0 14.626)" fill="none" stroke="#928fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="8"/>
+            <rect id="Base-9" data-name="Base" width="97" height="31" rx="10" transform="translate(170.772 -0.315)" fill="#4a44c6"/>
+            <text id="_244.21" data-name="$244.21" transform="translate(182.772 2.685)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-20.707" y="13">$244.21</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_362" data-name="Group 362" transform="translate(352.34 -561)">
+      <g transform="matrix(1, 0, 0, 1, 317.66, 802)" filter="url(#Rectangle_55)">
+        <rect id="Rectangle_55-2" data-name="Rectangle 55" width="189" height="185" rx="65" transform="translate(704 501)" fill="#fff"/>
+      </g>
+      <g id="Icons_User" data-name="Icons/User" transform="translate(1070.78 1350.12)">
+        <path id="Vector" d="M90.76,0V90.76H0V0Z" fill="none" opacity="0"/>
+        <path id="_Edit_Color" data-name="👑 Edit Color" d="M34.035,3.6A3.485,3.485,0,0,0,30.25.021,33.762,33.762,0,0,0,15.168,5.563,34.13,34.13,0,1,0,62.507,52.9,33.759,33.759,0,0,0,68.049,37.82a3.485,3.485,0,0,0-3.582-3.785H41.6a7.563,7.563,0,0,1-7.563-7.563Z" transform="translate(7.563 15.127)" fill="#928fff"/>
+        <path id="_Edit_Color-2" data-name="👑 Edit Color" d="M30.422,34.035a3.5,3.5,0,0,0,3.592-3.795,34.212,34.212,0,0,0-2.394-9.3A34.226,34.226,0,0,0,24.2,9.834,34.229,34.229,0,0,0,13.1,2.415,34.23,34.23,0,0,0,3.8.021,3.5,3.5,0,0,0,0,3.613V26.472a7.563,7.563,0,0,0,7.563,7.563Z" transform="translate(49.162 7.563)" fill="#4a44c6"/>
+      </g>
+    </g>
+    <g id="Icon" transform="translate(1421 521.082)">
+      <rect id="Base-10" data-name="Base" width="114" height="114" rx="49" transform="translate(0 -0.082)" fill="#928fff"/>
+      <g id="Card-payment" transform="translate(23.262 23.179)">
+        <path id="Vector-2" data-name="Vector" d="M68.17,0V68.17H0V0Z" fill="none" opacity="0"/>
+        <path id="_Edit_Color-3" data-name="👑 Edit Color" d="M1,0H50a1,1,0,0,1,1,1V16a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8V1A1,1,0,0,1,1,0Z" transform="translate(8.739 30.738)" fill="#e9e9ff"/>
+        <path id="_Edit_Color-4" data-name="👑 Edit Color" d="M12.556,28a1,1,0,0,1-1-1V23.4a1,1,0,0,1,1-1H30.778a1,1,0,0,1,1,1V27a1,1,0,0,1-1,1ZM1,11.2a1,1,0,0,1-1-1V8A8,8,0,0,1,8,0H44a8,8,0,0,1,8,8v2.2a1,1,0,0,1-1,1Z" transform="translate(8.739 13.738)" fill="#4a44c6"/>
+      </g>
+    </g>
+    <g id="Transfer" transform="translate(793 718)">
+      <g transform="matrix(1, 0, 0, 1, -123, -477)" filter="url(#Base-2)">
+        <rect id="Base-11" data-name="Base" width="254" height="117" rx="33" transform="translate(123 477)" fill="#fff"/>
+      </g>
+      <text id="Transfer-2" data-name="Transfer" transform="translate(115 47)" fill="#242424" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="19">Offers</tspan></text>
+      <g id="Buttons_Float_Rest" data-name="Buttons/Float/Rest" transform="translate(26 23)">
+        <rect id="Base-12" data-name="Base" width="72" height="72" rx="36" fill="#928fff"/>
+        <g id="Buttons_Float_Rest-2" data-name="Buttons/Float/Rest" clip-path="url(#clip-path)">
+          <g id="Repeat" transform="translate(16 16)">
+            <path id="Vector-3" data-name="Vector" d="M39.15,0V39.15H0V0Z" transform="translate(39.15 39.15) rotate(180)" fill="none" opacity="0"/>
+            <path id="_Edit_Color-5" data-name="👑 Edit Color" d="M21.415,17.521a1.657,1.657,0,0,1-.133-2.16l.135-.155L23.5,13.091H11.278A11.367,11.367,0,0,1,0,1.636,1.623,1.623,0,0,1,1.611,0,1.623,1.623,0,0,1,3.222,1.636a8.127,8.127,0,0,0,7.707,8.175l.349.007H23.5L21.417,7.7a1.655,1.655,0,0,1-.135-2.16l.133-.153a1.593,1.593,0,0,1,2.127-.137l.152.137L28.529,10.3a1.637,1.637,0,0,1,.359.556v0l.012.031,0,.007.009.026q.013.038.024.077v0l.008.03,0,.006.007.028,0,.009.006.028,0,.008.006.028,0,.01,0,.027,0,.012,0,.025,0,.016,0,.022c0,.012,0,.025,0,.037v.007c0,.011,0,.022,0,.033v.008c0,.011,0,.022,0,.033v.007q0,.017,0,.035v.006c0,.012,0,.024,0,.036s0,0,0,0v0c0,.011,0,.022,0,.034v0c0,.011,0,.022,0,.033v.007c0,.01,0,.019,0,.028v.01l0,.019a1.651,1.651,0,0,1-.063.337v0l-.009.029,0,.007-.008.025,0,.013-.007.019-.006.017-.006.015-.009.022,0,.008-.012.028v0a1.631,1.631,0,0,1-.2.338l0,0a1.636,1.636,0,0,1-.117.136l-.012.014-4.834,4.908a1.595,1.595,0,0,1-2.279,0Z" transform="translate(5 20)" fill="#e9e9ff"/>
+            <path id="_Edit_Color-6" data-name="👑 Edit Color" d="M25.778,16.364A8.126,8.126,0,0,0,18.071,8.19l-.349-.007H5.5L7.584,10.3a1.657,1.657,0,0,1,.133,2.161l-.133.153a1.593,1.593,0,0,1-2.127.137l-.151-.137L.471,7.7a1.636,1.636,0,0,1-.446-.867h0A1.67,1.67,0,0,1,0,6.63v0q0-.019,0-.038v0c0-.013,0-.025,0-.038v0c0-.011,0-.022,0-.033V6.5c0-.01,0-.02,0-.03V6.465c0-.009,0-.017,0-.026V6.41a1.655,1.655,0,0,1,.036-.233V6.172l.007-.027,0-.009.006-.023,0-.015,0-.017.006-.02,0-.011.009-.028v0a1.633,1.633,0,0,1,.253-.478l.008-.009a1.64,1.64,0,0,1,.12-.138l.006-.006L5.306.478a1.6,1.6,0,0,1,2.278,0,1.657,1.657,0,0,1,.133,2.161l-.133.155L5.5,4.908H17.722A11.368,11.368,0,0,1,29,16.364a1.611,1.611,0,1,1-3.222,0Z" transform="translate(5 2)" fill="#4a44c6"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Expense" transform="translate(765.722 399.949)">
+      <g transform="matrix(1, 0, 0, 1, -95.72, -158.95)" filter="url(#Base-4)">
+        <rect id="Base-13" data-name="Base" width="265" height="99" rx="33" transform="translate(96 166)" fill="#fff"/>
+      </g>
+      <text id="_2_008" data-name="$2,008" transform="translate(121.278 66.051)" fill="#6c727f" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="12">325</tspan></text>
+      <text id="Expense-2" data-name="Expense" transform="translate(121.278 34.051)" fill="#242424" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="19">Orders</tspan></text>
+      <g id="Buttons_Float_Rest-3" data-name="Buttons/Float/Rest" transform="translate(25.278 22.051)">
+        <rect id="Base-14" data-name="Base" width="70" height="70" rx="35" transform="translate(0 0)" fill="#ff6740"/>
+        <g id="Buttons_Float_Rest-4" data-name="Buttons/Float/Rest" clip-path="url(#clip-path-2)">
+          <g id="stack" transform="translate(23 23)">
+            <path id="Path_1444" data-name="Path 1444" d="M2,7,12,1,22,7,12,13Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_1445" data-name="Path 1445" d="M22,12,12,18,2,12" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_1446" data-name="Path 1446" d="M22,17,12,23,2,17" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Income" transform="translate(1346 336)">
+      <g transform="matrix(1, 0, 0, 1, -676, -95)" filter="url(#Base-6)">
+        <rect id="Base-15" data-name="Base" width="279" height="96" rx="33" transform="translate(676 95)" fill="#fff"/>
+      </g>
+      <text id="_5_280" data-name="$5,280" transform="translate(122 54)" fill="#6c727f" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="12">13,321 $</tspan></text>
+      <text id="Income-2" data-name="Income" transform="translate(122 30)" fill="#242424" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="19">Commission</tspan></text>
+      <g id="Buttons_Float_Rest-5" data-name="Buttons/Float/Rest" transform="translate(27 10)">
+        <rect id="Base-16" data-name="Base" width="78" height="78" rx="39" transform="translate(0 0)" fill="#8ee04e"/>
+        <g id="Buttons_Float_Rest-6" data-name="Buttons/Float/Rest" clip-path="url(#clip-path-3)">
+          <g id="file-money" transform="translate(27 27)">
+            <rect id="Rectangle_185" data-name="Rectangle 185" width="18" height="22" transform="translate(3 1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <line id="Line_496" data-name="Line 496" y2="14" transform="translate(12 5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_1447" data-name="Path 1447" d="M15.375,7.219c-1.621-.891-6.727-1.556-6.727,1.513,0,3.674,6.484,2.377,6.484,5.619S10.918,17.349,8,16.3" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

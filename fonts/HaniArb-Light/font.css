@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'HaniArb-Light';
+  src: url('HaniArb-Light.eot');
+  src: url('HaniArb-Light.eot?#iefix') format('embedded-opentype'),
+       url('HaniArb-Light.svg#HaniArb-Light') format('svg'),
+       url('HaniArb-Light.ttf') format('truetype'),
+       url('HaniArb-Light.woff') format('woff'),
+       url('HaniArb-Light.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
